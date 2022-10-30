@@ -1,0 +1,3462 @@
+Array
+(
+    [DATE TIME] => 14.10.2022 13:32:53
+    [kanc_id] => 1000
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1000
+                            [xmlId] => 
+                            [title] => #27124 - EU Study and Internship Program ECPD
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-14T14:32:52+03:00
+                            [updatedTime] => 2022-10-14T14:32:52+03:00
+                            [movedTime] => 2022-10-14T14:32:52+03:00
+                            [categoryId] => 4
+                            [opened] => N
+                            [stageId] => DT143_4:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-14T03:00:00+03:00
+                            [closedate] => 2022-10-21T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 5984
+                            [opportunity] => 3818.1
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27124
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => https://b24-m72enc.bitrix24.site/crm_form_uomm0/?smartproc_id=1000
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => https://b24-m72enc.bitrix24.site/crm_form_7raa1/?smartproc_id=1000
+                            [ufCrm4_1654524747] => 
+                            [ufCrm4_1654524802] => 
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 16730
+                            [parentId2] => 27124
+                            [observers] => Array
+                                (
+                                    [0] => 16730
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 5984
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1665747173.5119
+                    [finish] => 1665747173.595
+                    [duration] => 0.083105087280273
+                    [processing] => 0.039103984832764
+                    [date_start] => 2022-10-14T14:32:53+03:00
+                    [date_finish] => 2022-10-14T14:32:53+03:00
+                    [operating_reset_at] => 1665747773
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 14.10.2022 13:33:01
+    [kanc_id] => 1002
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1002
+                            [xmlId] => 
+                            [title] => #27124 - Legalization pack "HELP+LEGAL" - #1
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-14T14:33:01+03:00
+                            [updatedTime] => 2022-10-14T14:33:01+03:00
+                            [movedTime] => 2022-10-14T14:33:01+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-14T03:00:00+03:00
+                            [closedate] => 2022-10-21T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 5984
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27124
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => https://b24-m72enc.bitrix24.site/crm_form_uomm0/?smartproc_id=1000
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => https://b24-m72enc.bitrix24.site/crm_form_7raa1/?smartproc_id=1000
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1002
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1002
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 16730
+                            [parentId2] => 27124
+                            [observers] => Array
+                                (
+                                    [0] => 16730
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 5984
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1665747182.1795
+                    [finish] => 1665747182.4642
+                    [duration] => 0.28467202186584
+                    [processing] => 0.11984491348267
+                    [date_start] => 2022-10-14T14:33:02+03:00
+                    [date_finish] => 2022-10-14T14:33:02+03:00
+                    [operating_reset_at] => 1665747782
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 14.10.2022 13:33:06
+    [kanc_id] => 1004
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1004
+                            [xmlId] => 
+                            [title] => #27124 - Legalization pack "HELP+LEGAL" - #2
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-14T14:33:06+03:00
+                            [updatedTime] => 2022-10-14T14:33:06+03:00
+                            [movedTime] => 2022-10-14T14:33:06+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-14T03:00:00+03:00
+                            [closedate] => 2022-10-21T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 5984
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27124
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => https://b24-m72enc.bitrix24.site/crm_form_uomm0/?smartproc_id=1000
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => https://b24-m72enc.bitrix24.site/crm_form_7raa1/?smartproc_id=1000
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1004
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1004
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 16730
+                            [parentId2] => 27124
+                            [observers] => Array
+                                (
+                                    [0] => 16730
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 5984
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1665747187.1573
+                    [finish] => 1665747187.2133
+                    [duration] => 0.05596399307251
+                    [processing] => 0.030341863632202
+                    [date_start] => 2022-10-14T14:33:07+03:00
+                    [date_finish] => 2022-10-14T14:33:07+03:00
+                    [operating_reset_at] => 1665747787
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 14.10.2022 13:33:12
+    [kanc_id] => 1006
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1006
+                            [xmlId] => 
+                            [title] => #27124 - Legalization pack "HELP+LEGAL" - #3
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-14T14:33:11+03:00
+                            [updatedTime] => 2022-10-14T14:33:12+03:00
+                            [movedTime] => 2022-10-14T14:33:11+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-14T03:00:00+03:00
+                            [closedate] => 2022-10-21T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 5984
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27124
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => https://b24-m72enc.bitrix24.site/crm_form_uomm0/?smartproc_id=1000
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => https://b24-m72enc.bitrix24.site/crm_form_7raa1/?smartproc_id=1000
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1006
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1006
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 16730
+                            [parentId2] => 27124
+                            [observers] => Array
+                                (
+                                    [0] => 16730
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 5984
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1665747192.3444
+                    [finish] => 1665747192.405
+                    [duration] => 0.060651063919067
+                    [processing] => 0.031827926635742
+                    [date_start] => 2022-10-14T14:33:12+03:00
+                    [date_finish] => 2022-10-14T14:33:12+03:00
+                    [operating_reset_at] => 1665747792
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 14.10.2022 15:11:39
+    [kanc_id] => 1008
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1008
+                            [xmlId] => 
+                            [title] => #27086 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-14T16:11:38+03:00
+                            [updatedTime] => 2022-10-14T16:11:39+03:00
+                            [movedTime] => 2022-10-14T16:11:38+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-14T03:00:00+03:00
+                            [closedate] => 2022-10-21T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6884
+                            [opportunity] => 840
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => EUR
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27086
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10896
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1008
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1008
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 14748
+                            [parentId2] => 27086
+                            [observers] => Array
+                                (
+                                    [0] => 14748
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6884
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1665753099.9364
+                    [finish] => 1665753100.0143
+                    [duration] => 0.077868938446045
+                    [processing] => 0.040544986724854
+                    [date_start] => 2022-10-14T16:11:39+03:00
+                    [date_finish] => 2022-10-14T16:11:40+03:00
+                    [operating_reset_at] => 1665753699
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 14.10.2022 15:19:16
+    [kanc_id] => 1010
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1010
+                            [xmlId] => 
+                            [title] => #27122 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-14T16:19:15+03:00
+                            [updatedTime] => 2022-10-14T16:19:15+03:00
+                            [movedTime] => 2022-10-14T16:19:15+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-14T03:00:00+03:00
+                            [closedate] => 2022-10-21T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6896
+                            [opportunity] => 3000
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27122
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1010
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1010
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27122
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6896
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1665753556.2704
+                    [finish] => 1665753556.3366
+                    [duration] => 0.066176891326904
+                    [processing] => 0.033289909362793
+                    [date_start] => 2022-10-14T16:19:16+03:00
+                    [date_finish] => 2022-10-14T16:19:16+03:00
+                    [operating_reset_at] => 1665754156
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 14.10.2022 15:26:54
+    [kanc_id] => 1012
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1012
+                            [xmlId] => 
+                            [title] => #27092 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-14T16:26:53+03:00
+                            [updatedTime] => 2022-10-14T16:26:54+03:00
+                            [movedTime] => 2022-10-14T16:26:53+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-14T03:00:00+03:00
+                            [closedate] => 2022-10-21T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6888
+                            [opportunity] => 3690
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27092
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10896
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1012
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1012
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 16658
+                            [parentId2] => 27092
+                            [observers] => Array
+                                (
+                                    [0] => 16658
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6888
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1665754014.8361
+                    [finish] => 1665754014.9171
+                    [duration] => 0.080927848815918
+                    [processing] => 0.039616107940674
+                    [date_start] => 2022-10-14T16:26:54+03:00
+                    [date_finish] => 2022-10-14T16:26:54+03:00
+                    [operating_reset_at] => 1665754614
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 24.10.2022 11:35:42
+    [kanc_id] => 1014
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1014
+                            [xmlId] => 
+                            [title] => #27142 - EU Study and Internship Program ECPD
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-24T12:35:41+03:00
+                            [updatedTime] => 2022-10-24T12:35:42+03:00
+                            [movedTime] => 2022-10-24T12:35:41+03:00
+                            [categoryId] => 4
+                            [opened] => N
+                            [stageId] => DT143_4:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-24T03:00:00+03:00
+                            [closedate] => 2022-10-31T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 0
+                            [opportunity] => 3818.1
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27142
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => https://b24-m72enc.bitrix24.site/crm_form_uomm0/?smartproc_id=1014
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 0
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => https://b24-m72enc.bitrix24.site/crm_form_7raa1/?smartproc_id=1014
+                            [ufCrm4_1654524747] => 
+                            [ufCrm4_1654524802] => 
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 12716
+                            [parentId2] => 27142
+                            [observers] => Array
+                                (
+                                    [0] => 12716
+                                )
+
+                            [contactIds] => Array
+                                (
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666604142.7036
+                    [finish] => 1666604142.7907
+                    [duration] => 0.087076902389526
+                    [processing] => 0.046259164810181
+                    [date_start] => 2022-10-24T12:35:42+03:00
+                    [date_finish] => 2022-10-24T12:35:42+03:00
+                    [operating_reset_at] => 1666604742
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 24.10.2022 11:35:50
+    [kanc_id] => 1016
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1016
+                            [xmlId] => 
+                            [title] => #27142 - Legalization pack "HELP+LEGAL" - #1
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-24T12:35:50+03:00
+                            [updatedTime] => 2022-10-24T12:35:51+03:00
+                            [movedTime] => 2022-10-24T12:35:50+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-24T03:00:00+03:00
+                            [closedate] => 2022-10-31T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 0
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27142
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => https://b24-m72enc.bitrix24.site/crm_form_uomm0/?smartproc_id=1014
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 0
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => https://b24-m72enc.bitrix24.site/crm_form_7raa1/?smartproc_id=1014
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1016
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1016
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 12716
+                            [parentId2] => 27142
+                            [observers] => Array
+                                (
+                                    [0] => 12716
+                                )
+
+                            [contactIds] => Array
+                                (
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666604151.4388
+                    [finish] => 1666604151.5164
+                    [duration] => 0.077644109725952
+                    [processing] => 0.038463115692139
+                    [date_start] => 2022-10-24T12:35:51+03:00
+                    [date_finish] => 2022-10-24T12:35:51+03:00
+                    [operating_reset_at] => 1666604751
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 24.10.2022 11:35:56
+    [kanc_id] => 1018
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1018
+                            [xmlId] => 
+                            [title] => #27142 - Legalization pack "HELP+LEGAL" - #2
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-24T12:35:56+03:00
+                            [updatedTime] => 2022-10-24T12:35:57+03:00
+                            [movedTime] => 2022-10-24T12:35:56+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-24T03:00:00+03:00
+                            [closedate] => 2022-10-31T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 0
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27142
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => https://b24-m72enc.bitrix24.site/crm_form_uomm0/?smartproc_id=1014
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 0
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => https://b24-m72enc.bitrix24.site/crm_form_7raa1/?smartproc_id=1014
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1018
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1018
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 12716
+                            [parentId2] => 27142
+                            [observers] => Array
+                                (
+                                    [0] => 12716
+                                )
+
+                            [contactIds] => Array
+                                (
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666604157.4349
+                    [finish] => 1666604157.5345
+                    [duration] => 0.099655866622925
+                    [processing] => 0.06539511680603
+                    [date_start] => 2022-10-24T12:35:57+03:00
+                    [date_finish] => 2022-10-24T12:35:57+03:00
+                    [operating_reset_at] => 1666604757
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:16:16
+    [kanc_id] => 1020
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1020
+                            [xmlId] => 
+                            [title] => #27146 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:16:16+03:00
+                            [updatedTime] => 2022-10-25T16:16:16+03:00
+                            [movedTime] => 2022-10-25T16:16:16+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27146
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1020
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1020
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27146
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666703777.3818
+                    [finish] => 1666703777.4918
+                    [duration] => 0.11004996299744
+                    [processing] => 0.056272029876709
+                    [date_start] => 2022-10-25T16:16:17+03:00
+                    [date_finish] => 2022-10-25T16:16:17+03:00
+                    [operating_reset_at] => 1666704377
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:17:27
+    [kanc_id] => 1022
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1022
+                            [xmlId] => 
+                            [title] => #27148 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:17:26+03:00
+                            [updatedTime] => 2022-10-25T16:17:27+03:00
+                            [movedTime] => 2022-10-25T16:17:26+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27148
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1022
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1022
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27148
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666703847.9572
+                    [finish] => 1666703848.0417
+                    [duration] => 0.084457874298096
+                    [processing] => 0.053675889968872
+                    [date_start] => 2022-10-25T16:17:27+03:00
+                    [date_finish] => 2022-10-25T16:17:28+03:00
+                    [operating_reset_at] => 1666704447
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:17:32
+    [kanc_id] => 1024
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1024
+                            [xmlId] => 
+                            [title] => #27148 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:17:32+03:00
+                            [updatedTime] => 2022-10-25T16:17:32+03:00
+                            [movedTime] => 2022-10-25T16:17:32+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27148
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1024
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1024
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27148
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666703852.9558
+                    [finish] => 1666703853.0171
+                    [duration] => 0.061348915100098
+                    [processing] => 0.035436868667603
+                    [date_start] => 2022-10-25T16:17:32+03:00
+                    [date_finish] => 2022-10-25T16:17:33+03:00
+                    [operating_reset_at] => 1666704452
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:20:02
+    [kanc_id] => 1026
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1026
+                            [xmlId] => 
+                            [title] => #27150 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:20:02+03:00
+                            [updatedTime] => 2022-10-25T16:20:03+03:00
+                            [movedTime] => 2022-10-25T16:20:02+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27150
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1026
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1026
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27150
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666704003.4808
+                    [finish] => 1666704003.57
+                    [duration] => 0.089241981506348
+                    [processing] => 0.048691034317017
+                    [date_start] => 2022-10-25T16:20:03+03:00
+                    [date_finish] => 2022-10-25T16:20:03+03:00
+                    [operating_reset_at] => 1666704603
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:20:09
+    [kanc_id] => 1028
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1028
+                            [xmlId] => 
+                            [title] => #27150 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:20:08+03:00
+                            [updatedTime] => 2022-10-25T16:20:09+03:00
+                            [movedTime] => 2022-10-25T16:20:08+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27150
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1028
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1028
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27150
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666704010.3146
+                    [finish] => 1666704010.3947
+                    [duration] => 0.080111980438232
+                    [processing] => 0.045861959457397
+                    [date_start] => 2022-10-25T16:20:10+03:00
+                    [date_finish] => 2022-10-25T16:20:10+03:00
+                    [operating_reset_at] => 1666704610
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:20:21
+    [kanc_id] => 1030
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1030
+                            [xmlId] => 
+                            [title] => #27152 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:20:21+03:00
+                            [updatedTime] => 2022-10-25T16:20:21+03:00
+                            [movedTime] => 2022-10-25T16:20:21+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27152
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1030
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1030
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27152
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666704022.0302
+                    [finish] => 1666704022.1058
+                    [duration] => 0.075546979904175
+                    [processing] => 0.040199041366577
+                    [date_start] => 2022-10-25T16:20:22+03:00
+                    [date_finish] => 2022-10-25T16:20:22+03:00
+                    [operating_reset_at] => 1666704622
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:20:28
+    [kanc_id] => 1032
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1032
+                            [xmlId] => 
+                            [title] => #27152 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:20:28+03:00
+                            [updatedTime] => 2022-10-25T16:20:29+03:00
+                            [movedTime] => 2022-10-25T16:20:28+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27152
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1032
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1032
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27152
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666704029.4435
+                    [finish] => 1666704029.5415
+                    [duration] => 0.098056077957153
+                    [processing] => 0.052447080612183
+                    [date_start] => 2022-10-25T16:20:29+03:00
+                    [date_finish] => 2022-10-25T16:20:29+03:00
+                    [operating_reset_at] => 1666704629
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:20:38
+    [kanc_id] => 1034
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1034
+                            [xmlId] => 
+                            [title] => #27154 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:20:38+03:00
+                            [updatedTime] => 2022-10-25T16:20:38+03:00
+                            [movedTime] => 2022-10-25T16:20:38+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27154
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1034
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1034
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27154
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666704039.0728
+                    [finish] => 1666704039.1624
+                    [duration] => 0.089622020721436
+                    [processing] => 0.054864883422852
+                    [date_start] => 2022-10-25T16:20:39+03:00
+                    [date_finish] => 2022-10-25T16:20:39+03:00
+                    [operating_reset_at] => 1666704639
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:20:45
+    [kanc_id] => 1036
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1036
+                            [xmlId] => 
+                            [title] => #27154 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:20:44+03:00
+                            [updatedTime] => 2022-10-25T16:20:45+03:00
+                            [movedTime] => 2022-10-25T16:20:44+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27154
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1036
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1036
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27154
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666704045.7889
+                    [finish] => 1666704045.8541
+                    [duration] => 0.065191030502319
+                    [processing] => 0.037183046340942
+                    [date_start] => 2022-10-25T16:20:45+03:00
+                    [date_finish] => 2022-10-25T16:20:45+03:00
+                    [operating_reset_at] => 1666704645
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:20:53
+    [kanc_id] => 1038
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1038
+                            [xmlId] => 
+                            [title] => #27156 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:20:52+03:00
+                            [updatedTime] => 2022-10-25T16:20:53+03:00
+                            [movedTime] => 2022-10-25T16:20:52+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27156
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1038
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1038
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27156
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666704053.7445
+                    [finish] => 1666704053.8456
+                    [duration] => 0.10107612609863
+                    [processing] => 0.066306114196777
+                    [date_start] => 2022-10-25T16:20:53+03:00
+                    [date_finish] => 2022-10-25T16:20:53+03:00
+                    [operating_reset_at] => 1666704653
+                    [operating] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [DATE TIME] => 25.10.2022 15:20:59
+    [kanc_id] => 1040
+    [entityTypeId] => 143
+    [arNewKanc_data] => Array
+        (
+            [result] => Array
+                (
+                    [item] => Array
+                        (
+                            [id] => 1040
+                            [xmlId] => 
+                            [title] => #27156 - Legalization pack "HELP+LEGAL"
+                            [createdBy] => 16730
+                            [updatedBy] => 16730
+                            [movedBy] => 16730
+                            [createdTime] => 2022-10-25T16:20:59+03:00
+                            [updatedTime] => 2022-10-25T16:21:00+03:00
+                            [movedTime] => 2022-10-25T16:20:59+03:00
+                            [categoryId] => 6
+                            [opened] => N
+                            [stageId] => DT143_6:NEW
+                            [previousStageId] => 
+                            [begindate] => 2022-10-25T03:00:00+03:00
+                            [closedate] => 2022-11-01T03:00:00+03:00
+                            [companyId] => 0
+                            [contactId] => 6904
+                            [opportunity] => 3517.8
+                            [isManualOpportunity] => N
+                            [taxValue] => 0
+                            [currencyId] => PLN
+                            [mycompanyId] => 5
+                            [sourceId] => CALL
+                            [sourceDescription] => 
+                            [webformId] => 0
+                            [ufCrm4_1650984557] => 
+                            [ufCrm4_1650984708] => 
+                            [ufCrm4_1650984774] => 
+                            [ufCrm4_1650984811] => 
+                            [ufCrm4_1650984910] => 
+                            [ufCrm4_1650985012] => 
+                            [ufCrm4_1650985069] => 
+                            [ufCrm4_1650985106] => 
+                            [ufCrm4_1650985136] => 
+                            [ufCrm4_1650988733] => 27156
+                            [ufCrm4_1650988913] => 
+                            [ufCrm4_1650988940] => 
+                            [ufCrm4_1650989012] => 
+                            [ufCrm4_1651051441] => 
+                            [ufCrm4_1651051533] => 
+                            [ufCrm4_1651051561] => 
+                            [ufCrm4_1651051589] => 
+                            [ufCrm4_1651051644] => 
+                            [ufCrm4_1651051705] => 
+                            [ufCrm4_1651051735] => 
+                            [ufCrm4_1651051986] => 
+                            [ufCrm4_1651052029] => 
+                            [ufCrm4_1651052074] => 
+                            [ufCrm4_1651052154] => 
+                            [ufCrm4_1651052225] => 
+                            [ufCrm4_1651052304] => 
+                            [ufCrm4_1651052335] => 
+                            [ufCrm4_1651052367] => 
+                            [ufCrm4_1651052411] => 
+                            [ufCrm4_1651052455] => 
+                            [ufCrm4_1651052479] => 
+                            [ufCrm4_1651066019] => 
+                            [ufCrm626bc33fb3246] => Array
+                                (
+                                )
+
+                            [ufCrm4_1651233672] => 
+                            [ufCrm4_1651737369] => 
+                            [ufCrm4_1651738781] => 
+                            [ufCrm4_1652708488] => 
+                            [ufCrm4_1652708951] => 10904
+                            [ufCrm4_1652710516] => 
+                            [ufCrm4_1652711152] => 
+                            [ufCrm4_1652711485] => 
+                            [ufCrm4_1652711621] => 
+                            [ufCrm4_1652711699] => 
+                            [ufCrm4_1652711753] => 
+                            [ufCrm4_1652711792] => 
+                            [ufCrm4_1652711923] => 
+                            [ufCrm4_1654163674351] => 
+                            [ufCrm4_1654163749246] => 
+                            [ufCrm4_1654163833054] => 
+                            [ufCrm4_1654163901205] => 
+                            [ufCrm4_1654163986172] => 
+                            [ufCrm4_1654164050949] => 
+                            [ufCrm4_1654164211668] => 
+                            [ufCrm4_1654164272524] => 
+                            [ufCrm4_1654164393995] => 
+                            [ufCrm4_1654164463551] => 
+                            [ufCrm4_1654164560802] => 
+                            [ufCrm4_1654164675943] => 
+                            [ufCrm4_1654164750480] => 
+                            [ufCrm4_1654164805813] => 
+                            [ufCrm4_1654165005122] => 
+                            [ufCrm4_1654166006141] => 
+                            [ufCrm4_1654166102248] => 
+                            [ufCrm4_1654167373430] => 
+                            [ufCrm4_1654167520907] => 
+                            [ufCrm4_1654177873308] => 
+                            [ufCrm4_1654178341043] => 
+                            [ufCrm4_1654178635743] => 
+                            [ufCrm4_1654178860505] => 
+                            [ufCrm4_1654179690298] => 
+                            [ufCrm4_1654180048726] => 
+                            [ufCrm4_1654180176033] => 
+                            [ufCrm4_1654181000000] => 
+                            [ufCrm4_1654182912672] => 
+                            [ufCrm4_1654183197676] => 
+                            [ufCrm4_1654183387645] => 
+                            [ufCrm4_1654183404883] => 
+                            [ufCrm4_1654183608139] => 
+                            [ufCrm4_1654183781530] => 
+                            [ufCrm4_1654184037150] => 
+                            [ufCrm4_1654246147696] => 
+                            [ufCrm4_1654263085] => Array
+                                (
+                                )
+
+                            [ufCrm4_1654524437] => 
+                            [ufCrm4_1654524747] => https://b24-m72enc.bitrix24.site/crm_form_gibwb/?smartproc_id=1040
+                            [ufCrm4_1654524802] => https://b24-m72enc.bitrix24.site/crm_form_omd8y/?smartproc_id=1040
+                            [ufCrm4_1664395209933] => 
+                            [assignedById] => 4400
+                            [parentId2] => 27156
+                            [observers] => Array
+                                (
+                                    [0] => 4400
+                                )
+
+                            [contactIds] => Array
+                                (
+                                    [0] => 6904
+                                )
+
+                            [utmSource] => 
+                            [utmMedium] => 
+                            [utmCampaign] => 
+                            [utmContent] => 
+                            [utmTerm] => 
+                            [entityTypeId] => 143
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1666704060.482
+                    [finish] => 1666704060.551
+                    [duration] => 0.069041967391968
+                    [processing] => 0.03911304473877
+                    [date_start] => 2022-10-25T16:21:00+03:00
+                    [date_finish] => 2022-10-25T16:21:00+03:00
+                    [operating_reset_at] => 1666704660
+                    [operating] => 0
+                )
+
+        )
+
+)
